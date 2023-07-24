@@ -56,6 +56,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 
 ## 2.	Distributors
 1. Also Eesti, https://ariregister.rik.ee/eng/company/10093882/ALSO-Eesti-O%C3%9C, https://www.also.com/
+2. headtechnology, https://ariregister.rik.ee/eng/company/12484121/HEADTECHNOLOGY-O%C3%9C, https://headtechnology.com/
 
 ## 3.	Education & Research
 1. ISACA Estonia, ???? , https://engage.isaca.org/Estoniachapter/home
