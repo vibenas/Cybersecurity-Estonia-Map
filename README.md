@@ -67,11 +67,12 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 
 ## 3.	Education & Research
 1. ISACA Estonia, ???? , https://engage.isaca.org/Estoniachapter/home
-2. North European Cybersecurity Cluster (NECC), ???? , https://necc.network/
-3. NATO Cooperative Cyber Defence Centre of Excellence, ????, https://ccdcoe.org/
-4. e-Governance Academy, https://ariregister.rik.ee/eng/company/90007000/E-riigi-Akadeemia-Sihtasutus, https://www.ega.ee
-5. European Agency for the operational management of large-scale IT systems, ???? , https://www.eulisa.europa.eu/
-6. TalTech, https://ariregister.rik.ee/eng/company/74000323/Tallinna-Tehnika%C3%BClikool, https://taltech.ee/en/
+2. (ISC)2 Estonia Chapter, https://ariregister.rik.ee/eng/company/80605935/(ISC)%C2%B2-Estonia-Chapter-MT%C3%9C, https://www.isc2estoniachapter.ee/
+3. North European Cybersecurity Cluster (NECC), ???? , https://necc.network/
+4. NATO Cooperative Cyber Defence Centre of Excellence, ????, https://ccdcoe.org/
+5. e-Governance Academy, https://ariregister.rik.ee/eng/company/90007000/E-riigi-Akadeemia-Sihtasutus, https://www.ega.ee
+6. European Agency for the operational management of large-scale IT systems, ???? , https://www.eulisa.europa.eu/
+7. TalTech, https://ariregister.rik.ee/eng/company/74000323/Tallinna-Tehnika%C3%BClikool, https://taltech.ee/en/
 
 ## 4.	National Capabilities:
 1. Estonian State Police, https://ariregister.rik.ee/eng/company/70008747/Politsei--ja-Piirivalveamet, https://www.politsei.ee/
