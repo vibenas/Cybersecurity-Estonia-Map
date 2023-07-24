@@ -23,25 +23,26 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 *	**Local ownership**
 1. Blockchain 5.0, https://ariregister.rik.ee/eng/company/14604859/blockchain-50-O%C3%9C, https://bc5.eu/
 2. Clarified Security, https://ariregister.rik.ee/eng/company/12164540/Clarified-Security-O%C3%9C, https://www.clarifiedsecurity.com/ 
-3. crayZ, ???? , https://www.crayz.ee/ ??
-4. CS-Aware Corporation, https://ariregister.rik.ee/eng/company/16083086/CS-Aware-Corporation-O%C3%9C, https://cs-aware.eu/ 
-5. Cyber Hermes, https://ariregister.rik.ee/eng/company/16295368/Cyber-Hermes-O%C3%9C, https://www.cyberhermes.com/
-6. Cyberarch Consulting, https://ariregister.rik.ee/eng/company/14515469/Cyberarch-Consulting-O%C3%9C, https://cyberarch.eu/
-7. Cybernetica, https://ariregister.rik.ee/eng/company/10140133/Cybernetica-AS, https://cyber.ee/
-8. CYBERS, https://ariregister.rik.ee/eng/company/11924368/Security-Software-O%C3%9C, https://cybers.eu/en/
-9. CyberWiseSpace, https://ariregister.rik.ee/eng/company/14999935/CyberWiseSpace-O%C3%9C, https://cyberwise.space/
-10. CybExer, https://ariregister.rik.ee/eng/company/14013437/CybExer-Technologies-O%C3%9C, https://cybexer.com/
-11. cyex, https://ariregister.rik.ee/eng/company/14631885/cyex-O%C3%9C, https://cyex.io/
-12. Datami, https://ariregister.rik.ee/eng/company/16200310/Datami-O%C3%9C, https://datami.ee/
-13. Konsta Network,  ???? , https://konsta.network/ 
-14. Patchstack, https://ariregister.rik.ee/eng/company/14331217/Patchstack-O%C3%9C, https://patchstack.com/
-15. Peak Defence, https://ariregister.rik.ee/eng/company/14768555/Peak-Defence-O%C3%9C, https://peakdefence.com/
-16. RangeForce, https://ariregister.rik.ee/eng/company/12735735/RangeForce-O%C3%9C, https://www.rangeforce.com/
-17. Sekurno, ???? , https://www.sekurno.com/
-18. ShellBoxes, https://ariregister.rik.ee/eng/company/16670731/SHELLBOXES-O%C3%9C, https://www.shellboxes.com/
-19. Stallion, https://ariregister.rik.ee/eng/company/10369019/Aktsiaselts-Stallion, https://www.stallion.ee/
-20. Trilight Security, https://ariregister.rik.ee/eng/company/16028236/Trilight-Security-O%C3%9C, https://trilightsecurity.com/
-21. Veriff, https://ariregister.rik.ee/eng/company/12932944/Veriff-O%C3%9C, https://www.veriff.com/
+3. CR14, https://ariregister.rik.ee/eng/company/90015175/Sihtasutus-CR14, https://www.cr14.ee/
+4. crayZ, ???? , https://www.crayz.ee/ ??
+5. CS-Aware Corporation, https://ariregister.rik.ee/eng/company/16083086/CS-Aware-Corporation-O%C3%9C, https://cs-aware.eu/ 
+6. Cyber Hermes, https://ariregister.rik.ee/eng/company/16295368/Cyber-Hermes-O%C3%9C, https://www.cyberhermes.com/
+7. Cyberarch Consulting, https://ariregister.rik.ee/eng/company/14515469/Cyberarch-Consulting-O%C3%9C, https://cyberarch.eu/
+8. Cybernetica, https://ariregister.rik.ee/eng/company/10140133/Cybernetica-AS, https://cyber.ee/
+9. CYBERS, https://ariregister.rik.ee/eng/company/11924368/Security-Software-O%C3%9C, https://cybers.eu/en/
+10. CyberWiseSpace, https://ariregister.rik.ee/eng/company/14999935/CyberWiseSpace-O%C3%9C, https://cyberwise.space/
+11. CybExer, https://ariregister.rik.ee/eng/company/14013437/CybExer-Technologies-O%C3%9C, https://cybexer.com/
+12. cyex, https://ariregister.rik.ee/eng/company/14631885/cyex-O%C3%9C, https://cyex.io/
+13. Datami, https://ariregister.rik.ee/eng/company/16200310/Datami-O%C3%9C, https://datami.ee/
+14. Konsta Network,  ???? , https://konsta.network/ 
+15. Patchstack, https://ariregister.rik.ee/eng/company/14331217/Patchstack-O%C3%9C, https://patchstack.com/
+16. Peak Defence, https://ariregister.rik.ee/eng/company/14768555/Peak-Defence-O%C3%9C, https://peakdefence.com/
+17. RangeForce, https://ariregister.rik.ee/eng/company/12735735/RangeForce-O%C3%9C, https://www.rangeforce.com/
+18. Sekurno, ???? , https://www.sekurno.com/
+19. ShellBoxes, https://ariregister.rik.ee/eng/company/16670731/SHELLBOXES-O%C3%9C, https://www.shellboxes.com/
+20. Stallion, https://ariregister.rik.ee/eng/company/10369019/Aktsiaselts-Stallion, https://www.stallion.ee/
+21. Trilight Security, https://ariregister.rik.ee/eng/company/16028236/Trilight-Security-O%C3%9C, https://trilightsecurity.com/
+22. Veriff, https://ariregister.rik.ee/eng/company/12932944/Veriff-O%C3%9C, https://www.veriff.com/
 
 *	**Foreign ownership**
 1. Atea, https://ariregister.rik.ee/eng/company/10088390/AS-Atea, https://www.atea.ee/
