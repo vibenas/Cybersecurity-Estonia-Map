@@ -34,15 +34,16 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 11. CybExer, https://ariregister.rik.ee/eng/company/14013437/CybExer-Technologies-O%C3%9C, https://cybexer.com/
 12. cyex, https://ariregister.rik.ee/eng/company/14631885/cyex-O%C3%9C, https://cyex.io/
 13. Datami, https://ariregister.rik.ee/eng/company/16200310/Datami-O%C3%9C, https://datami.ee/
-14. Konsta Network,  ???? , https://konsta.network/ 
-15. Patchstack, https://ariregister.rik.ee/eng/company/14331217/Patchstack-O%C3%9C, https://patchstack.com/
-16. Peak Defence, https://ariregister.rik.ee/eng/company/14768555/Peak-Defence-O%C3%9C, https://peakdefence.com/
-17. RangeForce, https://ariregister.rik.ee/eng/company/12735735/RangeForce-O%C3%9C, https://www.rangeforce.com/
-18. Sekurno, ???? , https://www.sekurno.com/
-19. ShellBoxes, https://ariregister.rik.ee/eng/company/16670731/SHELLBOXES-O%C3%9C, https://www.shellboxes.com/
-20. Stallion, https://ariregister.rik.ee/eng/company/10369019/Aktsiaselts-Stallion, https://www.stallion.ee/
-21. Trilight Security, https://ariregister.rik.ee/eng/company/16028236/Trilight-Security-O%C3%9C, https://trilightsecurity.com/
-22. Veriff, https://ariregister.rik.ee/eng/company/12932944/Veriff-O%C3%9C, https://www.veriff.com/
+14. Konsta Network,  ???? , https://konsta.network/
+15. Oixio, 
+16. Patchstack, https://ariregister.rik.ee/eng/company/14331217/Patchstack-O%C3%9C, https://patchstack.com/
+17. Peak Defence, https://ariregister.rik.ee/eng/company/14768555/Peak-Defence-O%C3%9C, https://peakdefence.com/
+18. RangeForce, https://ariregister.rik.ee/eng/company/12735735/RangeForce-O%C3%9C, https://www.rangeforce.com/
+19. Sekurno, ???? , https://www.sekurno.com/
+20. ShellBoxes, https://ariregister.rik.ee/eng/company/16670731/SHELLBOXES-O%C3%9C, https://www.shellboxes.com/
+21. Stallion, https://ariregister.rik.ee/eng/company/10369019/Aktsiaselts-Stallion, https://www.stallion.ee/
+22. Trilight Security, https://ariregister.rik.ee/eng/company/16028236/Trilight-Security-O%C3%9C, https://trilightsecurity.com/
+23. Veriff, https://ariregister.rik.ee/eng/company/12932944/Veriff-O%C3%9C, https://www.veriff.com/
 
 *	**Foreign ownership**
 1. Atea, https://ariregister.rik.ee/eng/company/10088390/AS-Atea, https://www.atea.ee/
@@ -52,11 +53,15 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 5. KPMG Baltics, https://ariregister.rik.ee/eng/company/10096082/KPMG-Baltics-O%C3%9C, http://www.kpmg.com
 6. Microsoft, https://ariregister.rik.ee/eng/company/10955527/Microsoft-Estonia-O%C3%9C, http://www.microsoft.com
 7. PricewaterhouseCoopers Advisory, https://ariregister.rik.ee/eng/company/10325507/AS-PricewaterhouseCoopers-Advisors, https://www.pwc.com/ee
+8. Telia,
+9. Proact, 
 
 
 ## 2.	Distributors
 1. Also Eesti, https://ariregister.rik.ee/eng/company/10093882/ALSO-Eesti-O%C3%9C, https://www.also.com/
 2. headtechnology, https://ariregister.rik.ee/eng/company/12484121/HEADTECHNOLOGY-O%C3%9C, https://headtechnology.com/
+3. CLICO, ,
+
 
 ## 3.	Education & Research
 1. ISACA Estonia, ???? , https://engage.isaca.org/Estoniachapter/home
@@ -70,4 +75,6 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 1. Estonian State Police, https://ariregister.rik.ee/eng/company/70008747/Politsei--ja-Piirivalveamet, https://www.politsei.ee/
 2. CERT.EE, https://ariregister.rik.ee/eng/company/70006317/Riigi-Infos%C3%BCsteemi-Amet, https://www.ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/monitoring-cyberspace-and-impeding-incidents
 3. Data Protection Inspectorate, https://ariregister.rik.ee/eng/company/70004235/Andmekaitse-Inspektsioon, https://www.aki.ee/en
+4. SMIT, , 
+5. KAPO, ,
 
